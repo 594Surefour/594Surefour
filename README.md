@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=594Surefour&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=594Surefour&theme=merko" />
 </div>
 
 - 📖 I am currently an undergraduate student at School of Computer Science, East China Normal University.
