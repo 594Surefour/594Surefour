@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=594Surefour&theme=merko" />
 </div>
 
-- 📖 I am currently an undergraduate student at School of Computer Science, East China Normal University.
-- 🎩 I am interested in python and c++ related contents such as mysql database, data analysis and processing, artificial intelligence machine learning, etc.
-- 📫 You can reach me at leezh210@icloud.com
 - 👏 Welcome～
+- 📖 I am currently an undergraduate student majoring in Computer Science and Technology of East China Normal University.
+- 🎩 I am interested in python and c++ related contents such as mysql database, data analysis and processing, artificial intelligence machine learning, etc.
+- 📫 You can contact me at leezh210@icloud.com
+
