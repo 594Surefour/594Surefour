@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 - 👏 Welcome～
-- 📖 I am currently an undergraduate student majoring in Computer Science and Technology of East China Normal University.
-- 🎩 I am interested in python and c++ related contents such as mysql database, data analysis and processing, artificial intelligence machine learning, etc.
+- 📖 I am currently a graduate student majoring in Data Science and Engineering of East China Normal University.
+- 🎩 I am interested in Java and Python related contents such as Back-End development, Front-End development, etc. Also, I am familiar with Spring, Django, React.
 - 📫 You can contact me at leezh210@icloud.com
 
