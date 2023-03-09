@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📖 I am currently a graduate student majoring in Data Science and Engineering of East China Normal University.
 - 🎩 I like and would like to learn new knowledge.
 - 🔭 Explore cutting-edge application directions, such as cloud native, blockchain and machine learning.
-- 💼 Back-end developer and Algorithm engineer.
+- 💼 Go/Java/Python developer and Algorithm engineer.
 - 📫 You can contact me at leezehao0210@163.com .
 
 ### 🛠 Tech Stack
