@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 About Me 
 - 👏 Welcome～
 - 📖 I am currently a graduate student majoring in Data Science and Engineering of East China Normal University.
-- 🎩 I like and willing to learn new knowledge.
-- 🔭 Explore cutting-edge application directions, such as cloud native and blockchain.
-- 💼 Back-end developer and Infrastructure engineer.
+- 🎩 I like and would like to learn new knowledge.
+- 🔭 Explore cutting-edge application directions, such as cloud native, blockchain and machine learning.
+- 💼 Back-end developer and Algorithm engineer.
 - 📫 You can contact me at leezehao0210@163.com .
 
 ### 🛠 Tech Stack
 - 💻 Java | Python | Go 
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
+- 🌐 Machine Learning | NLP | Computer Vision
 - 🛢 MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
 
