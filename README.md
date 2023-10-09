@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 - 👏 Welcome～
 - 📖 I am currently a graduate student majoring in Data Science and Engineering of East China Normal University.
 - 🎩 I like and would like to learn new knowledge.
-- 🔭 Explore cutting-edge application directions, such as cloud native, blockchain and machine learning.
-- 💼 Go/Java/Python developer and Algorithm engineer.
+- 🔭 Explore cutting-edge application directions, such as cloud native, blockchain.
+- 💼 Go/C++/Python developer.
 - 📫 You can contact me at leezehao0210@163.com .
 
 ### 🛠 Tech Stack
-- 💻 Java | Python | Go 
-- 🌐 Machine Learning | NLP | Computer Vision
+- 💻 Golang | C++ | Python 
+- 🌐 Computer Network | Operating System | Database System
 - 🛢 MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
 
