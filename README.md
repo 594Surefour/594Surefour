@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 - 👏 Welcome～
 - 📖 I am currently a graduate student majoring in Data Science and Engineering of East China Normal University.
 - 🎩 I like and would like to learn new knowledge.
-- 🔭 Explore cutting-edge application directions, such as cloud native, blockchain.
-- 💼 Go/C++/Python developer.
-- 📫 You can contact me at leezehao0210@163.com .
+- 🔭 I like to explore the database field, including directions such as storage engines and vectorization engines.
+- 💼 C++/Go/Python developer.
+- 📫 You can contact me at 1337998606@qq.com .
 
 ### 🛠 Tech Stack
-- 💻 Golang | C++ | Python 
+- 💻 C++ | Golang | Python 
 - 🌐 Computer Network | Operating System | Database System
-- 🛢 MySQL | Redis | Elasticsearch
+- 🛢 Storage Engines | Vectorization Engines | VectorDB |  
 - 🔧 Visual Studio code | IDEA | Git
 
 <div>
