@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 - 💻 C++ | Golang | Python 
 - 🌐 Computer Network | Operating System | Database System
-- 🛢 Storage Engines | Vectorization Engines | VectorDB |  
+- 🛢 Storage Engines | Vectorization Engines | Machine Learning |  
 - 🔧 Visual Studio code | IDEA | Git
 
 <div>
